@@ -17,8 +17,8 @@ def my_endpoint():
         "current_day": current_day,
         "utc_time": utc_time,
         "track": track,
-        "github_file_url": "https://github.com/Dcomputer22/HNG_Backend_Create_Endpoint_API_Stage1/blob/master/app.py",
-        "github_repo_url": "https://github.com/Dcomputer22/HNG_Backend_Create_Endpoint_API_Stage1",
+        "github_file_url": "https://github.com/Dcomputer22/HNG_endpoint/blob/master/app.py",
+        "github_repo_url": "https://github.com/Dcomputer22/HNG_endpoint",
         "status_code": 200
     })
 
